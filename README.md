@@ -62,15 +62,15 @@ cd cd0157-Server-Deployment-and-Containerization/
 .
 ├── Dockerfile 
 ├── README.md
-├── aws-auth-patch.yml #ToDo
-├── buildspec.yml      #ToDo
-├── ci-cd-codepipeline.cfn.yml #ToDo
-├── iam-role-policy.json  #ToDo
+├── CODEOWNERS.md
+├── buildspec.yml
+├── ci-cd-codepipeline.cfn.yml
+├── iam-role-policy.json
 ├── main.py
 ├── requirements.txt
 ├── simple_jwt_api.yml
-├── test_main.py  #ToDo
-└── trust.json     #ToDo 
+├── test_main.py
+└── trust.json 
 ```
 
      
